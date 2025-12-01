@@ -1,0 +1,5 @@
+{
+  "name": "SmartInterior Quote",
+  "description": "Ứng dụng báo giá nội thất thông minh sử dụng AI để phân tích hình ảnh phòng, tự động bóc tách khối lượng, đề xuất vật liệu và tính toán chi phí sơ bộ.",
+  "requestFramePermissions": []
+}
